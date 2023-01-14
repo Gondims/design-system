@@ -23,7 +23,7 @@ jobs:
 
       - run: npm run build
         env:
-          TURBO_TOKEN: FCG6jUQnEjloF231alcKDhjn
+          TURBO_TOKEN: ${{ secrets.VARCEL_TOKEN }}
           TURBO_TEAM: gondims
 
       - name: Deploy storybook
