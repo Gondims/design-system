@@ -1,0 +1,2 @@
+import{A as t}from"./index.bbadca9c.js";import"./index.27c90885.js";import"./iframe.960df0ec.js";import"./index.c69b9a3d.js";import"./jsx-runtime.1a99c458.js";const c={title:"Data display/Avatar",component:t,args:{src:"https://github.com/Gondims.png",alt:"Leticia Gondim"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},e=["Primary","WithFallback"];export{m as Primary,p as WithFallback,e as __namedExportsOrder,c as default};
+//# sourceMappingURL=Avatar.stories.38b9acc4.js.map
